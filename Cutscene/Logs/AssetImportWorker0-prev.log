@@ -1,0 +1,434 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 7103 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/skbol/3D Objects/VoyagerIII/Cutscene
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64682
+Successfully changed project path to: C:/Users/skbol/3D Objects/VoyagerIII/Cutscene
+C:/Users/skbol/3D Objects/VoyagerIII/Cutscene
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 114.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/skbol/3D Objects/VoyagerIII/Cutscene/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) RX Vega 10 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     3551 MB
+    Driver:   26.20.11030.22001
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/Unity Hub/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004152 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 115.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.260 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005186 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 109.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.783 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.7 MB.
+System memory in use after: 160.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3857.
+Total: 3.934600 ms (FindLiveObjects: 0.402900 ms CreateObjectMapping: 0.143300 ms MarkObjects: 3.230200 ms  DeleteObjects: 0.156500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/erika_archer@Big Jump.fbx
+  artifactKey: Guid(11998c82c23202e48aad96feb51eb4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/erika_archer@Big Jump.fbx using Guid(11998c82c23202e48aad96feb51eb4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88aa49a4fd4c20a2ccccfa4418d86d79') in 0.359229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/Desert Environment/Models/Props/Container/Container.fbx
+  artifactKey: Guid(9f984bc6793ad8549a5d3dde963cd640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Models/Props/Container/Container.fbx using Guid(9f984bc6793ad8549a5d3dde963cd640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3064940f0e3fb8f8d6cd547f2184cbb5') in 0.025028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.732104 seconds.
+  path: Assets/Erika/Standing Melee Punch.anim
+  artifactKey: Guid(3ec6259430b6f6b4baf751f777c6c3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Erika/Standing Melee Punch.anim using Guid(3ec6259430b6f6b4baf751f777c6c3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77351016d34b9d30a9c654a7e2313f7') in 0.031764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.228934 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb692ab4d4999add91a43fbec8115be8') in 0.019312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.666823 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c80edac6b3e6c78c40cf9fe32598f37') in 0.008702 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006346 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.636 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.7 MB.
+System memory in use after: 169.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3904.
+Total: 5.825000 ms (FindLiveObjects: 0.488700 ms CreateObjectMapping: 0.198900 ms MarkObjects: 4.943300 ms  DeleteObjects: 0.191300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.297131 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1301977feb17ff9bc06d8ced3ab6c11d') in 0.010264 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006460 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.701 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.7 MB.
+System memory in use after: 170.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3907.
+Total: 4.475700 ms (FindLiveObjects: 0.513600 ms CreateObjectMapping: 0.184400 ms MarkObjects: 3.645800 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.128889 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98efc3155365d4e4fe35bbfc5e4f1b5') in 0.012047 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004929 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.563 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.8 MB.
+System memory in use after: 170.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3910.
+Total: 3.700000 ms (FindLiveObjects: 0.464300 ms CreateObjectMapping: 0.188900 ms MarkObjects: 2.946400 ms  DeleteObjects: 0.098400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.648898 seconds.
+  path: Assets/Desert Environment/Prefabs/Vegetation/PalmTree2.prefab
+  artifactKey: Guid(cbd413c474196fa40a913e42b500ea02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Prefabs/Vegetation/PalmTree2.prefab using Guid(cbd413c474196fa40a913e42b500ea02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446770f6cf362ab0e7ecc2d9b648d75e') in 0.120327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Desert Environment/Prefabs/Vegetation/PalmTree.prefab
+  artifactKey: Guid(95da9912935f49e4bac6440555493088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Prefabs/Vegetation/PalmTree.prefab using Guid(95da9912935f49e4bac6440555493088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8446660a1c227558c53ef95b63e56ed') in 0.033905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.070027 seconds.
+  path: Assets/Player.mask
+  artifactKey: Guid(b69d796db89ca954bb9a7fa43109e840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.mask using Guid(b69d796db89ca954bb9a7fa43109e840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40893543adbb25ed4e945686230509b7') in 0.009011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 777.079098 seconds.
+  path: Assets/Erika/erika_archer@Standing Idle 03 Examine.controller
+  artifactKey: Guid(f373a2b2dcaa67247a8b0bb2dcaae6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Erika/erika_archer@Standing Idle 03 Examine.controller using Guid(f373a2b2dcaa67247a8b0bb2dcaae6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e111dd47dc4c8affc0e64e1ad9d995ba') in 0.050993 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004526 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.476 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.8 MB.
+System memory in use after: 170.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3914.
+Total: 4.121200 ms (FindLiveObjects: 0.544600 ms CreateObjectMapping: 0.191900 ms MarkObjects: 3.268600 ms  DeleteObjects: 0.113700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.348417 seconds.
+  path: Assets/Desert Environment/Models/Props/Well/Well.fbx
+  artifactKey: Guid(604b70f722d634f488376d7f276d2e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Models/Props/Well/Well.fbx using Guid(604b70f722d634f488376d7f276d2e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2384f4e6dcc18429aa9ffd1b38f1d7d') in 0.154702 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004755 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.631 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.9 MB.
+System memory in use after: 170.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3918.
+Total: 4.321000 ms (FindLiveObjects: 0.409800 ms CreateObjectMapping: 0.098200 ms MarkObjects: 3.609600 ms  DeleteObjects: 0.201000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.857623 seconds.
+  path: Assets/Erika/erika_archer@Standing Idle 03 Examine.fbx
+  artifactKey: Guid(8aeb3653c649fb4439078bc913bbbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Erika/erika_archer@Standing Idle 03 Examine.fbx using Guid(8aeb3653c649fb4439078bc913bbbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2146918ccfe41ec1d740ef295b54b3') in 0.215924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.960345 seconds.
+  path: Assets/Desert Environment/Models/Props/Tires/SingleTire.fbx
+  artifactKey: Guid(808171b078409dd49b433292cdab3442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Models/Props/Tires/SingleTire.fbx using Guid(808171b078409dd49b433292cdab3442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1728ef7ae215783e549bcef327537fb7') in 0.041070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Desert Environment/Models/Props/Tires/TireWall.fbx
+  artifactKey: Guid(9f744f4dfcd0bfd4aa3e8ae14a463448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert Environment/Models/Props/Tires/TireWall.fbx using Guid(9f744f4dfcd0bfd4aa3e8ae14a463448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e640d8e1f0ccf59e952fb1e91e96b9e2') in 0.032270 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004820 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.412 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3922.
+Total: 6.482100 ms (FindLiveObjects: 0.712000 ms CreateObjectMapping: 0.275600 ms MarkObjects: 5.257600 ms  DeleteObjects: 0.233700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.766103 seconds.
+  path: Assets/erika_archer@Big Jump.fbx
+  artifactKey: Guid(11998c82c23202e48aad96feb51eb4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/erika_archer@Big Jump.fbx using Guid(11998c82c23202e48aad96feb51eb4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675172fb8487870c31764e8a211bb65e') in 0.226104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.511669 seconds.
+  path: Assets/Erika/erika_archer@Standing Idle 03 Examine.fbx
+  artifactKey: Guid(8aeb3653c649fb4439078bc913bbbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Erika/erika_archer@Standing Idle 03 Examine.fbx using Guid(8aeb3653c649fb4439078bc913bbbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a59573e6c42a4e15045e7661432b4512') in 0.121962 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004491 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3926.
+Total: 3.836300 ms (FindLiveObjects: 0.498100 ms CreateObjectMapping: 0.344200 ms MarkObjects: 2.888500 ms  DeleteObjects: 0.103600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006342 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.530 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3929.
+Total: 5.110300 ms (FindLiveObjects: 0.581400 ms CreateObjectMapping: 0.242600 ms MarkObjects: 4.145100 ms  DeleteObjects: 0.137800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009727 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.523 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3932.
+Total: 5.029200 ms (FindLiveObjects: 0.579100 ms CreateObjectMapping: 0.185000 ms MarkObjects: 4.131000 ms  DeleteObjects: 0.132000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007824 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3935.
+Total: 5.754400 ms (FindLiveObjects: 0.771800 ms CreateObjectMapping: 0.483800 ms MarkObjects: 4.342100 ms  DeleteObjects: 0.153100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 465.018598 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(f4b6c9cd96d421043981612b055b7c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2fed97930dd0e22b96f041754eacfa') in 0.015751 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007778 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\skbol\3D Objects\VoyagerIII\Cutscene\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.589 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.1 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3938.
+Total: 5.894600 ms (FindLiveObjects: 0.531100 ms CreateObjectMapping: 0.258500 ms MarkObjects: 4.926000 ms  DeleteObjects: 0.175900 ms)
+
